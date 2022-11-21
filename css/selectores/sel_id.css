@@ -1,0 +1,12 @@
+/* aqui incluiremos todos los selectores id*/
+#home2{
+    color:blueviolet
+   
+}
+#home1{
+    color:rgb(21, 143, 131)
+}
+
+#home2> #texto{
+    color:rgb(187, 109, 20)
+}

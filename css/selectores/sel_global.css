@@ -1,0 +1,14 @@
+/*agregamos los valores grls*/
+
+#home2 > .icons {
+    width: 400px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.icons i:last-child {
+    float: right;
+}

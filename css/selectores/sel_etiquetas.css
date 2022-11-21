@@ -1,0 +1,12 @@
+/* agregamos todas las etiquetas que falten*/
+body{
+    background-color: aquamarine;
+    margin: 0;
+}
+div{
+    box-sizing: border-box;
+}
+span{
+    color:black
+}
+
