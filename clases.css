@@ -1,0 +1,19 @@
+/* aqui van clases*/
+.titulo{
+    color: rgb(5, 0, 10);
+}
+div.icons i:last-child{
+    float: right;
+}
+.icons{
+    background-color: rgb(162, 167, 170,.33);
+}
+.contenido{
+    width: 460px;
+    margin:auto;
+    background-color: rgb(105, 160, 130,.33);
+}
+.contenido .textos> p{
+    text-align: justify;
+    background-color: rgb(174, 204, 230,.33);
+}

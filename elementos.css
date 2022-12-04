@@ -1,0 +1,13 @@
+/*aqui agregaremos los elementos */
+
+body{
+    background-color: #7fffd433;
+}
+img{
+    width: 100%;
+}
+p{
+    margin-left: 9px;
+    margin-right: 9px;
+    margin-bottom: 3px;
+}
